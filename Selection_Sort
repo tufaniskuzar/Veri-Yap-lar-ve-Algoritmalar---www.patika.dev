@@ -1,3 +1,5 @@
+INSERTION SORT
+
 [22,27,16,2,18,6]
 İlk olarak dizideki en küçük sayı olan 2 bulunur ve 22 ile yer değiştirir.
 [2,27,16,22,18,6]
@@ -11,6 +13,7 @@ Ve bu şekilde sıralama son bulur.
 Big O = O(n^2)
 18 sayısının sıralanmış haldeki dizide aranması Average Case’dir.
 
+İlk dört adım:
 [7,3,5,8,2,9,4,15,6]
 1.adım
 [2,3,5,8,7,9,4,15,6]
